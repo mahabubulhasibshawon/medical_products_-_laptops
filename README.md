@@ -6,8 +6,6 @@ A new Flutter project.
 ![medicine.png](assets%2Fmedicine.png)
 ![laptop_products.png](assets%2Flaptop_products.png)
 
-## Screen Records 
-https://github.com/user-attachments/assets/1d067605-3a2e-44c5-91a7-6a5f1de95669
 
 ## Getting Started
 
